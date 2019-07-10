@@ -1,5 +1,4 @@
 # DeepCNNs-surrogate-UQ
-Deep CNNs for UQ problems
 
 Deep convolutional neural networks for random field uncertainty propagation
 [Xihaier Luo](https://xihaier.github.io/), [Ahsan Kareem](https://engineering.nd.edu/profiles/akareem)
