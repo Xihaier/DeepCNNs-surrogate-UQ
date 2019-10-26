@@ -11,13 +11,9 @@ Deep convolutional neural networks for random field uncertainty propagation
 > Accepted version
 
 @article{luo2019deep,
-
   title={Deep convolutional neural networks for uncertainty propagation in random fields},
-  
   author={Luo, Xihaier and Kareem, Ahsan},
-  
   journal={arXiv preprint arXiv:1907.11198},
-  
   year={2019}
 }
 
