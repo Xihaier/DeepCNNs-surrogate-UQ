@@ -3,7 +3,7 @@ Code for CACAIE paper [Deep convolutional neural networks for random field uncer
 
 ## Contents
 * Manuscript: revised paper.
-* Responses: peer reviews from 9 reviewers.
+* Responses: peer reviews from 9 reviewers. 
 * Examples: computer codes of the case study.
 
 ## Dependency
