@@ -1,5 +1,8 @@
 # DeepCNNs-surrogate-UQ
-Code for CACAIE paper [Deep convolutional neural networks for random field uncertainty propagation](https://xihaier.github.io/)
+The repository contains all files of the *CACAIE paper* entitled **Deep convolutional neural networks for uncertainty propagation in random fields**. Browse each of the folders for more information.
+* The Examples folder provides the computer codes.
+* The Responses folder provides peer reviews from 9 reviewers.
+* The Manuscript folder provides the revised paper.
 
 ## Summary
 A machine learning approach is proposed for quantifying the effect of spatial variabilities in coupled elliptic systems. The learning model takes a hierarchical form where deep convolutional neural networks are used as the underlying components.
