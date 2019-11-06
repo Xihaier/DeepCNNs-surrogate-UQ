@@ -13,10 +13,16 @@ The learning process of this field-to-field mapping is efficient as distant conn
 
 <p><img src="Images/optimization.gif" width="700"><p>
 
-## Contents
-* Manuscript: revised paper.
-* Responses: peer reviews from 9 reviewers. 
-* Examples: computer codes of the case study.
+## Citation
+```latex
+@article{luo2019deep,
+  title={Deep convolutional neural networks for uncertainty propagation in random fields},
+  author={Luo, Xihaier and Kareem, Ahsan},
+  journal={arXiv preprint arXiv:1907.11198},
+  year={2019}
+}
+```
+
 
 ## Dependency
 * Python 3.0
@@ -24,5 +30,3 @@ The learning process of this field-to-field mapping is efficient as distant conn
 * Matplotlib 3.0
 * Scipy 1.3
 * Numpy 1.10
-
-## Citation
