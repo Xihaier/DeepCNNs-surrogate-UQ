@@ -4,7 +4,7 @@ Code for CACAIE paper [Deep convolutional neural networks for random field uncer
 ## Summary
 A machine learning approach is proposed for quantifying the effect of spatial variabilities in coupled elliptic systems. The learning model takes a hierarchical form where deep convolutional neural networks are used as the underlying components.
 
-<p><img src="Images/truth.png" width="270"> <img src="Images/prediction.gif" width="270"> <img src="Images/error.gif" width="270"><p>
+<p><img src="Images/truth.png" width="260"> <img src="Images/prediction.gif" width="270"> <img src="Images/error.gif" width="260"><p>
 
 The learning process of this field-to-field mapping is efficient as distant connections among nonadjacent layers are established to improve the model efficiency in terms of training and deploying.
 
