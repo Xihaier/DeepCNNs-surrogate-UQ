@@ -32,6 +32,6 @@ The learning process of this field-to-field mapping is efficient as distant conn
 * Numpy 1.10
 
 ## Dataset
-```
-The size of the source data is huge. We are working on providing an easy-to-access link for retrieving data.
-```
+`
+The size of the source data is larger than the github capacity. We are working on providing an easy-to-access link for retrieving data.
+`
