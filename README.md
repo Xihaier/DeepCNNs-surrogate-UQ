@@ -14,6 +14,8 @@ The learning process of this field-to-field mapping is efficient as distant conn
 <p><img src="Images/optimization.gif" width="700"><p>
 
 ## Citation
+The paper has been accepted by the Journal of Computer-Aided Civil and Infrastructure Engineering. The below information contains the references of the arXiv and Journal, respectively. 
+
 ```latex
 @article{luo2019deep,
   title={Deep convolutional neural networks for uncertainty propagation in random fields},
