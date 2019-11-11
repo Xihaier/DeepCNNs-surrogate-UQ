@@ -1,5 +1,5 @@
 # DeepCNNs-surrogate-UQ
-The repository contains all files of the *CACAIE paper* entitled **Deep convolutional neural networks for uncertainty propagation in random fields**. Browse each of the folders for more information.
+The repository contains all files of the *CACAIE paper* entitled [Deep convolutional neural networks for uncertainty propagation in random fields](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12510). Browse each of the folders for more information.
 * The Examples folder provides the computer codes.
 * The Responses folder provides peer reviews from 9 reviewers.
 * The Manuscript folder provides the revised paper.
