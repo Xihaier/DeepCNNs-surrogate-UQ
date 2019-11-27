@@ -20,8 +20,9 @@ The paper has been accepted by the Journal of Computer-Aided Civil and Infrastru
 @article{luo2019deep,
   title={Deep convolutional neural networks for uncertainty propagation in random fields},
   author={Luo, Xihaier and Kareem, Ahsan},
-  journal={arXiv preprint arXiv:1907.11198},
-  year={2019}
+  journal={Computer-Aided Civil and Infrastructure Engineering},
+  year={2019},
+  publisher={Wiley Online Library}
 }
 ```
 
