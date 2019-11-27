@@ -14,7 +14,7 @@ The learning process of this field-to-field mapping is efficient as distant conn
 <p><img src="Images/optimization.gif" width="700"><p>
 
 ## Citation
-The paper has been accepted by the Journal of Computer-Aided Civil and Infrastructure Engineering. The below information contains the references of the arXiv and Journal, respectively. 
+The paper has been accepted by the Journal of Computer-Aided Civil and Infrastructure Engineering. The below information contains the references of Journal. 
 
 ```latex
 @article{luo2019deep,
