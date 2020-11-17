@@ -35,6 +35,5 @@ The paper has been accepted by the Journal of Computer-Aided Civil and Infrastru
 * Numpy 1.10
 
 ## Dataset
-`
-The size of the source data is larger than the github capacity. We are working on providing an easy-to-access link for retrieving data.
-`
+We provide the data to help researchers reproduce the results. Please place the data in a proper directory.
+[Link](https://drive.google.com/drive/folders/1uyrN4RGuNNU_ya4nlvD40XrOpwtFSC2n?usp=sharing)
