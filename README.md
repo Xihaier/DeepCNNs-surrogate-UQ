@@ -36,4 +36,5 @@ The paper has been accepted by the Journal of Computer-Aided Civil and Infrastru
 
 ## Dataset
 We provide the data to help researchers reproduce the results. Please place the data in a proper directory.
-[Link](https://drive.google.com/drive/folders/1uyrN4RGuNNU_ya4nlvD40XrOpwtFSC2n?usp=sharing)
+
+[Link to the datasets](https://drive.google.com/drive/folders/1uyrN4RGuNNU_ya4nlvD40XrOpwtFSC2n?usp=sharing)
